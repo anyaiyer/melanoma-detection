@@ -5,7 +5,7 @@ In addition, at least one in five Americans will develop skin cancer by the age 
 
 ## Download Data
 Data used in for this application can be found on [Kaggle](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview).
-You can also find the exact files & model used [here](https://drive.google.com/file/d/1aEfEeYgbztxE8yyKRxMRBMHbsNAlN2G-/view?usp=sharing).
+You can also find the exact files & model used [here](https://drive.google.com/drive/folders/1kGOl3coyEj1pkcwGfC0FBbxXzTafuR3h?usp=sharing).
 
 ## Model
 The model classifies skin lesion images as benign (without melanoma) or malignant (containing melanoma). 
@@ -66,7 +66,7 @@ The best threshold values are between 0.4 - 0.5, as we want to maximize recall t
 
 An interactive application is available when opened the Google Colab notebook. It is located in Melanoma_Detection file.
 
-You can download all the data through this [Google Drive shared folder](https://drive.google.com/file/d/1aEfEeYgbztxE8yyKRxMRBMHbsNAlN2G-/view?usp=sharing).
+You can download all the data through this [Google Drive shared folder](https://drive.google.com/drive/folders/1kGOl3coyEj1pkcwGfC0FBbxXzTafuR3h?usp=sharing).
 
 The folder contains:
 - the loaded model (model_1.pth)
