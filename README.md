@@ -5,6 +5,7 @@ In addition, at least one in five Americans will develop skin cancer by the age 
 
 ## Download Data
 Data used in for this application can be found on [Kaggle](https://www.kaggle.com/c/siim-isic-melanoma-classification/overview).
+You can also find the exact files & model used [here](https://drive.google.com/file/d/1aEfEeYgbztxE8yyKRxMRBMHbsNAlN2G-/view?usp=sharing).
 
 ## Model
 The model classifies skin lesion images as benign (without melanoma) or malignant (containing melanoma). 
