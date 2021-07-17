@@ -67,7 +67,7 @@ The best threshold values are between 0.4 - 0.5, as we want to maximize recall t
 
 ## Use
 
-An interactive application is available when opened the Google Colab notebook. It is located in the [Melanoma_Detection](https://github.com/anyaiyer/melanoma-detection/blob/main/Melanoma_Detection.ipynb) file.
+An interactive application is available when opening the Google Colab notebook. It is located in the [Melanoma_Detection](https://github.com/anyaiyer/melanoma-detection/blob/main/Melanoma_Detection.ipynb) file.
 
 You can view the exploratory data analysis and graphs in the [Skin_Cancer_EDA](https://github.com/anyaiyer/melanoma-detection/blob/main/Skin_Cancer_EDA.ipynb) file
 
