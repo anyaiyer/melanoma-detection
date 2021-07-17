@@ -19,7 +19,10 @@ The specific type of CNN architecture I used for this classification task is Res
 popular architecture that uses skip connections to jump over 
 certain layers in the network. It aids in preventing the infamous [Vanishing Gradient](https://en.wikipedia.org/wiki/Vanishing_gradient_problem) problem through these skip connections.
 
-With the use of the fastai deep learning library, I was able to easily implement a pre-trained version of ResNet50. During training, the following were passed into the cnn_learner():
+With the use of the [fastai](https://www.fast.ai/) deep learning library, I was able to easily implement a pre-trained version of ResNet50.
+Most of the code I used for reference comes from [fastbook](https://github.com/fastai/fastbook), available on GitHub.
+
+During training, the following were passed into the cnn_learner():
 - metrics = [accuracy,
            error_rate, 
            RocAucBinary(), Recall(), Precision()]
@@ -64,7 +67,9 @@ The best threshold values are between 0.4 - 0.5, as we want to maximize recall t
 
 ## Use
 
-An interactive application is available when opened the Google Colab notebook. It is located in Melanoma_Detection file.
+An interactive application is available when opened the Google Colab notebook. It is located in the [Melanoma_Detection](https://github.com/anyaiyer/melanoma-detection/blob/main/Melanoma_Detection.ipynb) file.
+
+You can view the exploratory data analysis and graphs in the [Skin_Cancer_EDA](https://github.com/anyaiyer/melanoma-detection/blob/main/Skin_Cancer_EDA.ipynb) file
 
 You can download all the data through this [Google Drive shared folder](https://drive.google.com/drive/folders/1kGOl3coyEj1pkcwGfC0FBbxXzTafuR3h?usp=sharing).
 
