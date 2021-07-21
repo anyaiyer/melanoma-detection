@@ -71,7 +71,7 @@ An interactive application is available when opening the Google Colab notebook. 
 
 You can view the exploratory data analysis and graphs in the [Skin_Cancer_EDA](https://github.com/anyaiyer/melanoma-detection/blob/main/Skin_Cancer_EDA.ipynb) file
 
-You can download all the data through this [Google Drive shared folder](https://drive.google.com/drive/folders/1kGOl3coyEj1pkcwGfC0FBbxXzTafuR3h?usp=sharing).
+You can download all the data through this [Google Drive shared folder](https://drive.google.com/drive/folders/1cuSLtigqqIx7_3OynNPADYU5xN7M1DNw?usp=sharing).
 
 The folder contains:
 - the loaded model (model_1.pth)
