@@ -67,7 +67,7 @@ The best threshold values are between 0.4 - 0.5, as we want to maximize recall t
 
 ## Use
 
-An interactive application for use is in the [melanoma_application file](https://github.com/anyaiyer/melanoma-detection/blob/main/melanoma_application.ipynb) file.
+An interactive application for use is in the [melanoma_application](https://github.com/anyaiyer/melanoma-detection/blob/main/melanoma_application.ipynb) file.
 
 The process and all code for building the project is located in the [Melanoma_Detection](https://github.com/anyaiyer/melanoma-detection/blob/main/Melanoma_Detection.ipynb) file. 
 
